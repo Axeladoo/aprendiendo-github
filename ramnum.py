@@ -16,3 +16,6 @@ while True:
             print("Es menor...")
     except ValueError:
         print("Por favor, introduce un número válido.")
+
+# Estadística simple añadida al final
+print(f"El número secreto era exactamente: {secreto}")
